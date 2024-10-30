@@ -11,16 +11,19 @@
 ## 1. 🍽 자취생을 부탁해
 > 자취생을 위한 맞춤형 요리 레시피 및 재료 구매 플랫폼<br>
 > 기간 : 2023.10 - 2024.01<br>
-> 맡은 역할 : 쇼핑몰 화면 및 API 구현 / 구매 기능 구현
+> 맡은 역할 : 쇼핑몰 화면 및 API 구현 / 구매 기능 구현<br>
+> [프로젝트 상세 설명](https://github.com/ram9611/recipe-store-project)
 
 
 ## 2. 👨‍🍳👩‍💻 Freview
 > SNS 홍보를 원하는 스토어와 체험단을 이어주는 매칭 플랫폼<br>
 > 기간 : 2024.05 - 2024.07 <br>
-> 맡은 역할 : 회원가입 구현 / Form, OAuth 로그인 구현 / JWT 인가 구현 / Refresh Token을 이용한 JWT 관리 구현
+> 맡은 역할 : 회원가입 구현 / Form, OAuth 로그인 구현 / JWT 인가 구현 / Refresh Token을 이용한 JWT 관리 구현<br>
+> [프로젝트 상세 설명](https://github.com/nugunaTeam/FReview2)
 
 
 ## 3. 🧑‍🏫 EngleBee
 > 개인 맞춤형 학습을 제공하는 1:1 화상 영어 과외 플랫폼<br>
-> 기간 : 2024.07 - 2024.08
-> 맡은 역할 : WebRTC를 활용한 1:1 화상 수업 및 채팅 구현 / AOP를 이용한 로그 기록 구현 / 관리자용 대시보드 구현
+> 기간 : 2024.07 - 2024.08<br>
+> 맡은 역할 : WebRTC를 활용한 1:1 화상 수업 및 채팅 구현 / AOP를 이용한 로그 기록 구현 / 관리자용 대시보드 구현<br>
+> [프로젝트 상세 설명](https://github.com/BeeLinkers/EngleBee)
